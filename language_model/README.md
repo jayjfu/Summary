@@ -8,3 +8,5 @@
 - https://github.com/kefirski/contiguous-succotash
 - Breaking the Softmax Bottleneck: A High-Rank RNN Language Model [[arXiv](https://arxiv.org/abs/1711.03953)]
 - https://github.com/zihangdai/mos
+- A Hybrid Convolutional Variational Autoencoder for Text Generation [[arXiv](https://arxiv.org/abs/1702.02390)]
+- https://github.com/stas-semeniuta/textvae
