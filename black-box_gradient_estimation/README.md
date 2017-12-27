@@ -5,3 +5,5 @@ https://www.zhihu.com/question/20852004
 
 #### Gumbel-Softmax, REBAR, RELAX
 - Categorical Reparameterization with Gumbel-Softmax [[arXiv](https://arxiv.org/abs/1611.01144)]
+- REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models  
+- Backpropagation through the Void: Optimizing control variates for black-box gradient estimation  
