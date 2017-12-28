@@ -1,3 +1,6 @@
+#### TRPO
+https://arxiv.org/abs/1502.05477  
+https://zhuanlan.zhihu.com/p/26308073  
 
 #### 控制变量法（Control Variates）
 https://zhuanlan.zhihu.com/p/21454636?refer=quantjiang  
