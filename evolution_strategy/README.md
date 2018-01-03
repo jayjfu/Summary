@@ -1,3 +1,6 @@
+#### Evolution Strategies Tool
+- https://github.com/hardmaru/estool
+
 #### Uber 2017-12
 - Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning [[arXiv](https://arxiv.org/abs/1712.06567)]
 - Safe Mutations for Deep and Recurrent Neural Networks through Output Gradients [[arXiv](https://arxiv.org/abs/1712.06563)]
