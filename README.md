@@ -14,4 +14,7 @@
 - End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF  [[arXiv](https://arxiv.org/abs/1603.01354)]
 ##### unpublished
 
-##### 
+##### others 
+- 生产级深度学习的开发经验分享：数据集的构建和提升是关键 [[jiqizhixin](https://www.jiqizhixin.com/articles/2018-06-09-3)]
+- 如何用深度学习做自然语言处理？这里有份最佳实践清单  [[jiqizhixin](https://www.jiqizhixin.com/articles/2017-07-26-5)]
+
