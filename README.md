@@ -3,10 +3,10 @@
 ### SequenceLabeling (2018-07-11)
 ----------
 #### selected
-- Empower Sequence Labeling with Task-Aware Neural Language Model
-- Design Challenges and Misconceptions in Neural Sequence Labeling
-- Chinese NER Using Lattice LSTM
-- Hybrid semi-Markov CRF for Neural Sequence Labeling
+- Empower Sequence Labeling with Task-Aware Neural Language Model [[arXiv](https://arxiv.org/abs/1709.04109)] [[Code](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF#data)]
+- Design Challenges and Misconceptions in Neural Sequence Labeling [[arXiv](https://arxiv.org/abs/1806.04470)] [[Code](https://github.com/jiesutd/NCRFpp)]
+- Chinese NER Using Lattice LSTM [[arXiv](https://arxiv.org/abs/1805.02023)] [[Code](https://github.com/jiesutd/LatticeLSTM)]
+- Hybrid semi-Markov CRF for Neural Sequence Labeling [[arXiv](https://arxiv.org/abs/1805.03838)] [[Code](https://github.com/ZhixiuYe/HSCRF-pytorch)]
 ----------
 ##### published (sort by time)
 - Character-Level Feature Extraction with Densely Connected Networks (COLING 2018) [[arXiv](https://arxiv.org/abs/1806.09089v1)]
