@@ -3,6 +3,8 @@
 ### SequenceLabeling (2018-07-11)
 ----------
 #### selected
+- Contextual String Embeddings for Sequence Labeling [[Code](https://github.com/zalandoresearch/flair)]
+- Deep contextualized word representations [[arXiv](https://arxiv.org/abs/1802.05365)] [[Code](https://github.com/allenai/allennlp)]
 - Empower Sequence Labeling with Task-Aware Neural Language Model [[arXiv](https://arxiv.org/abs/1709.04109)] [[Code](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF#data)]
 - Design Challenges and Misconceptions in Neural Sequence Labeling [[arXiv](https://arxiv.org/abs/1806.04470)] [[Code](https://github.com/jiesutd/NCRFpp)]
 - Chinese NER Using Lattice LSTM [[arXiv](https://arxiv.org/abs/1805.02023)] [[Code](https://github.com/jiesutd/LatticeLSTM)]
