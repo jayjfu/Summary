@@ -1,5 +1,5 @@
 # summary
-## [NER](https://github.com/jfu790900173/summary/tree/master/language_model)
+## [NER](https://github.com/jayjfu/summary/tree/master/language_model)
 - 1
 - 2
 
