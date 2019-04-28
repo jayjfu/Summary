@@ -1,4 +1,7 @@
 # summary
+## [GAN综述]
+- 见How Generative Adversarial Networks and Their Variants Work: An Overview [[arXiv](https://arxiv.org/abs/1711.05914)] (在持续更新)
+
 ## [NER](https://github.com/jayjfu/summary/tree/master/language_model)
 - 1
 - 2
