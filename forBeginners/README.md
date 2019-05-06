@@ -1,5 +1,8 @@
 # forBeginners  (To be continued...)
 
+#### 完备的 AI 学习路线，最详细的中英文资源整理
+- https://zhuanlan.zhihu.com/p/64080846
+
 #### books
 - CS231n, etc.
 
