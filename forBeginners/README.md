@@ -1,5 +1,8 @@
 # forBeginners  (To be continued...)
 
+#### Machine Learning Notes
+-- https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents
+
 #### Visualization
 - [[Visdom](https://github.com/facebookresearch/visdom)], [[Plotly](https://plot.ly/)]
 
