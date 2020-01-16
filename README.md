@@ -1,4 +1,7 @@
 # summary
+## tmp
+计算广告/推荐系统/机器学习(Machine Learning)/点击率(CTR)/转化率(CVR)预估/点击率预估: https://github.com/mJackie/RecSys
+
 ## [GAN综述]
 - 见How Generative Adversarial Networks and Their Variants Work: An Overview [[arXiv](https://arxiv.org/abs/1711.05914)] (在持续更新)
 
