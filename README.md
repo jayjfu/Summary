@@ -1,4 +1,6 @@
 # summary
+all useful:  torchtext -> pytorch, tensorflow ( official, or useful tools, userful publick repositries)
+
 ## tmp
 计算广告/推荐系统/机器学习(Machine Learning)/点击率(CTR)/转化率(CVR)预估/点击率预估: https://github.com/mJackie/RecSys
 
