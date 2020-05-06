@@ -1,3 +1,5 @@
-1. Anaconda(include tf+pt, cuda version etc.)     
+1. Anaconda(include tf+pt, cuda version etc.)  
+    conda create -n mytf tensorflow-gpu=1.12 cudatoolkit=9.0  
+
 2. tmux ...  
 
