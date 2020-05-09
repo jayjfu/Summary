@@ -1,5 +1,8 @@
 # forBeginners  (To be continued...)
 
+Thinking in tensors, writing in PyTorch (a hands-on deep learning intro)  
+- https://github.com/stared/thinking-in-tensors-writing-in-pytorch
+
 #### Machine Learning Notes
 -- https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents
 
