@@ -6,3 +6,5 @@ export PATH=${CUDA_HOME}/bin:$PATH
 
 install cuda, nvcc -V, cuDNN  
 together with tensorflow + pytorch
+
+text processing: awk + torchtext?
