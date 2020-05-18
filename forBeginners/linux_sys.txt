@@ -8,3 +8,6 @@ install cuda, nvcc -V, cuDNN
 together with tensorflow + pytorch
 
 text processing: awk + torchtext?
+
+Daily Task: airflow + docker !!!
+
