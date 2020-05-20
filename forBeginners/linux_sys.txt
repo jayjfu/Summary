@@ -12,3 +12,4 @@ text processing: awk + torchtext?
 Daily Task: airflow + docker !!!  
 docker add user后， 需exit， source .bashrc无效
 
+此外再 pip install docker...
