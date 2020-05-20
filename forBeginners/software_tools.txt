@@ -3,4 +3,5 @@
 
 2. tmux ...  
 
-3. docker + redis + Vue CLI?
+3. docker + redis + Vue CLI?  
+docker: 使用usermod后， 注意restart！  
