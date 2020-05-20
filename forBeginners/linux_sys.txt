@@ -9,5 +9,6 @@ together with tensorflow + pytorch
 
 text processing: awk + torchtext?
 
-Daily Task: airflow + docker !!!
+Daily Task: airflow + docker !!!  
+docker add user后， 需exit， source .bashrc无效
 
