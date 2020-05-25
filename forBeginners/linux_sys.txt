@@ -10,6 +10,6 @@ together with tensorflow + pytorch
 text processing: awk + torchtext?
 
 Daily Task: airflow + docker !!!  
-docker add user后， 需exit， source .bashrc无效
+docker add user后， 需exit（source .bashrc无效， 或newgrp docker）
 
 此外再 pip install docker...
