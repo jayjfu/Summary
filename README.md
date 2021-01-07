@@ -1,3 +1,8 @@
+# TODO
+0107: links to notion articles, TODO  
+
+
+
 # Summary
 all useful:  torchtext -> pytorch, tensorflow ( official, or useful tools, userful publick repositries)
 
