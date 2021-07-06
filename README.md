@@ -1,3 +1,6 @@
+## Hugging Face Course
+https://huggingface.co/course/chapter1  
+
 # TODO
 0107: links to notion articles, TODO  
 
